@@ -1,3 +1,3 @@
 # UnCaesar
 
-This single page will uncipher any Caesar ciphered message.
+This script will uncipher any Caesar ciphered message.
