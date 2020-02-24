@@ -1,4 +1,4 @@
-![badge_codeQuality](https://api.codacy.com/project/badge/Grade/67fd32fccb7b4cf386f136c8d6f864da)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/67fd32fccb7b4cf386f136c8d6f864da)](https://www.codacy.com/app/JonasHau/MathForFun)
 
 # README
 
