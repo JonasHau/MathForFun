@@ -1,5 +1,7 @@
 # README
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/97175f2b36074e52bf945b697fea1d6c)](https://app.codacy.com/manual/JonasHau/MathForFun?utm_source=github.com&utm_medium=referral&utm_content=JonasHau/MathForFun&utm_campaign=Badge_Grade_Dashboard)
+
 This project is a collection of math programming I made.
 Infos are on the [wiki](https://github.com/JonasHau/MathForFun/wiki).
   
