@@ -1,3 +1,5 @@
+![badge_codeQuality](https://api.codacy.com/project/badge/Grade/67fd32fccb7b4cf386f136c8d6f864da)
+
 # README
 
 This project is a collection of math programming I made.
