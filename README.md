@@ -1,6 +1,8 @@
+# Math For Fun
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://github.com/JonasHau/MathForFun/blob/master/LICENSE.md)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/67fd32fccb7b4cf386f136c8d6f864da)](https://www.codacy.com/app/JonasHau/MathForFun)
-
-# README
+![GitHub issues](https://img.shields.io/github/issues/JonasHau/MathForFun)
+![GitHub last commit](https://img.shields.io/github/last-commit/JonasHau/MathForFun)
 
 This project is a collection of math programming I made.
 Infos are on the [wiki](https://github.com/JonasHau/MathForFun/wiki).
