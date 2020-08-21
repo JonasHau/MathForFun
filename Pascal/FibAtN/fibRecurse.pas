@@ -1,5 +1,5 @@
 {The program takes a lot of time to process numbers
-bigger than ~20 because recursion}
+bigger than 50 because recursion}
 program fibRecurse;
 var
   n:QWord;
@@ -14,9 +14,13 @@ begin
 end;
 
 begin
-  WriteLn('How far do you wanna go in fibonacci sequence ?');
-  WriteLn('past 25, the processing takes more time exponentially...');
+  WriteLn('How much iterations of the fibonacci sequence would you like ?');
+  WriteLn('I dont recommend going past 50, the processing may take some time...');
   ReadLn(iter);
   n := fib(iter);
   WriteLn('The ',iter,'th number in the fibonacci sequence is ',n);
+
+  WriteLn();
+  WriteLn('Press <Enter> to exit...');
+  ReadLn();
 end.
