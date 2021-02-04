@@ -2,21 +2,17 @@
 <html>
 	<head>
 		<title>UnCaesar</title>
-		<script src="uncaesar.js"></script>
 	</head>
-	<body>
-		<h2>
-			UnCaesar.js
-		</h2>
+	<body style="text-align:center;">
+		<h2>UnCaesar.js</h2>
+	
+		<div>
+			<p>Cipher:</p>
+			<textarea id="input" oninput="uncaesar()"></textarea>
+			<p>Raw text:</p>
+			<textarea id="result" disabled></textarea>
+		</div>
 		
-		<form>
-			Cipher:
-			</br>
-			<input type="text" name="input" onchange="uncaesar()">
-			</br>
-			Raw text:
-			</br>
-			<input type="text" name="result" disabled>
-		</form>
+		<script src="uncaesar.js"></script>
 	</body>
 </html>
